@@ -1,0 +1,176 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/776880377" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (~/anaconda3/envs/aind/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/anaconda3/envs/aind/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/aind/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/aind/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/aind/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/aind/lib/python3.6/site-packages/Sphinx-1.5.1-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda3/envs/aind/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-367114350" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (~/anaconda3/envs/thinkstats/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="$USER_HOME$/anaconda3/envs/thinkstats/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats/lib/python3.6/site-packages/Sphinx-1.5.1-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda3/envs/thinkstats/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/1878337379" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (~/anaconda3/envs/thinkstats27/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/anaconda3/envs/thinkstats27/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda3/envs/thinkstats27/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/269053950" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (~/anaconda3/envs/OSINT27/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/anaconda3/envs/OSINT27/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/OSINT27/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-368649387" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 (~/anaconda3/envs/handson-ml/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/anaconda3/envs/handson-ml/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/handson-ml/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/handson-ml/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda3/envs/handson-ml/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/560148455" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
